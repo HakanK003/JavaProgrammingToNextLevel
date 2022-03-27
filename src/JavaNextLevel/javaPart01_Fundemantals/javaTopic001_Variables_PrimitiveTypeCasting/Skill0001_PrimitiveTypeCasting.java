@@ -1,0 +1,4 @@
+package JavaNextLevel.javaPart01_Fundemantals.javaTopic001_Variables_PrimitiveTypeCasting;
+
+public class Skill0001_PrimitiveTypeCasting {
+}
