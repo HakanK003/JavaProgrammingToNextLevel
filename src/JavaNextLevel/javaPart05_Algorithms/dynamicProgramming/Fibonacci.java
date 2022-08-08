@@ -1,4 +1,4 @@
-package JavaNextLevel.javaPart05_Alghoritms.dynamicProgramming;
+package JavaNextLevel.javaPart05_Algorithms.dynamicProgramming;
 
 public class Fibonacci {
 

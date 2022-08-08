@@ -1,4 +1,4 @@
-package JavaNextLevel.javaPart05_Alghoritms.sorting;
+package JavaNextLevel.javaPart05_Algorithms.sorting;
 
 public class InsertionSort {
 

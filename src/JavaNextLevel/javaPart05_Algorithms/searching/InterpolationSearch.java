@@ -1,4 +1,4 @@
-package JavaNextLevel.javaPart05_Alghoritms.searching;
+package JavaNextLevel.javaPart05_Algorithms.searching;
 
 public class InterpolationSearch {
 
